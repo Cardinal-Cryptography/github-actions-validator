@@ -1,8 +1,8 @@
 module github.com/Cardinal-Cryptography/github-actions-validator
 
-go 1.19
+go 1.22.1
 
 require (
-	github.com/go-phings/broccli v2.0.0+incompatible
+	github.com/keenbytes/broccli/v3 v3.0.2
 	gopkg.in/yaml.v2 v2.4.0
 )
